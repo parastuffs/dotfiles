@@ -1,1 +1,6 @@
-/home/para/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
+{
+	"auto_match_enabled": false,
+	"font_size": 10,
+	"index_files": false,
+	"show_git_status": false
+}
